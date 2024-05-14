@@ -1,0 +1,638 @@
+Rank,Team,Uni,Conference,Won,Lost,Pct.,Year,Sportstype
+1,Tampa ,University of Tampa ,Sunshine State,21,0,1,2021,M
+2,Mercy ,Mercy College ,ECC,16,2,0.889,2021,M
+3,Adelphi ,Adelphi University ,NE10,15,2,0.882,2021,M
+4,Limestone ,Limestone University ,SAC,17,3,0.85,2021,M
+5,Le Moyne ,Le Moyne College ,NE10,16,4,0.8,2021,M
+5,Rollins ,Rollins College ,Sunshine State,12,3,0.8,2021,M
+7,Lenoir-Rhyne ,Lenoir,SAC,15,4,0.789,2021,M
+8,Colorado Mesa ,Colorado Mesa University ,RMAC,14,4,0.778,2021,M
+8,UIndy ,University of Indianapolis (UIndy) ,GLVC,14,4,0.778,2021,M
+10,Lindenwood ,Lindenwood University ,GLVC,12,4,0.75,2021,M
+11,Pace ,Pace University ,NE10,11,4,0.733,2021,M
+11,Wilmington ,Wilmington University ,DE,11,4,0.733,2021,M
+13,Wingate ,Wingate University ,SAC,13,5,0.722,2021,M
+14,Westminster ,Westminster College ,UT,10,4,0.714,2021,M
+15,Queens ,Queens University of Charlotte ,NC,12,5,0.706,2021,M
+16,Mercyhurst ,Mercyhurst University ,G-MAC,11,5,0.688,2021,M
+17,Belmont Abbey ,Belmont Abbey College ,Conference Carolinas,10,5,0.667,2021,M
+17,Fla. Southern ,Florida Southern College ,Sunshine State,12,6,0.667,2021,M
+17,Roberts Wesleyan ,Roberts Wesleyan College ,ECC,10,5,0.667,2021,M
+20,Seton Hill ,Seton Hill University ,G-MAC,13,7,0.65,2021,M
+21,Chestnut Hill ,Chestnut Hill College ,CACC,11,6,0.647,2021,M
+21,Lander ,Lander University ,Peach Belt,11,6,0.647,2021,M
+23,Maryville ,Maryville University ,MO,9,5,0.643,2021,M
+24,Florida Tech ,Florida Institute of Technology ,Sunshine State,10,6,0.625,2021,M
+24,Mount Olive ,University of Mount Olive ,Conference Carolinas,10,6,0.625,2021,M
+24,St. Anselm ,Saint Anselm College ,NE10,10,6,0.625,2021,M
+27,Montevallo ,University of Montevallo ,Peach Belt,11,7,0.611,2021,M
+28,Lewis ,Lewis University ,GLVC,9,6,0.6,2021,M
+29,Alabama Huntsville ,University of Alabama in Huntsville ,Peach Belt,10,7,0.588,2021,M
+29,Newberry ,Newberry College ,SAC,10,7,0.588,2021,M
+31,Bentley ,Bentley University ,NE10,8,6,0.571,2021,M
+31,Rockhurst ,Rockhurst University ,GLVC,8,6,0.571,2021,M
+33,Anderson ,Anderson University ,SC,9,7,0.562,2021,M
+33,Barton ,Barton College ,Conference Carolinas,9,7,0.562,2021,M
+33,Tusculum ,Tusculum University ,SAC,9,7,0.562,2021,M
+36,Southern N.H. ,Southern New Hampshire University ,NE10,7,6,0.538,2021,M
+37,Felician ,Felician University ,CACC,7,7,0.5,2021,M
+37,Lake Erie ,Lake Erie College ,G-MAC,7,7,0.5,2021,M
+37,North Greenville ,North Greenville University ,Conference Carolinas,9,9,0.5,2021,M
+40,Saint Rose ,The College of Saint Rose ,NE10,8,9,0.471,2021,M
+41,Dominican ,Dominican College ,NY,6,7,0.462,2021,M
+41,Franklin Pierce ,Franklin Pierce University ,NE10,6,7,0.462,2021,M
+43,Chowan ,Chowan University ,Conference Carolinas,6,8,0.429,2021,M
+43,Saint Leo ,Saint Leo University ,Sunshine State,6,8,0.429,2021,M
+45,Molloy ,Molloy College ,ECC,7,10,0.412,2021,M
+46,Davenport ,Davenport University ,GLVC,5,8,0.385,2021,M
+47,Palm Beach Atl. ,Palm Beach Atlantic University ,Sunshine State,5,9,0.357,2021,M
+48,Georgian Court ,Georgian Court University ,CACC,6,11,0.353,2021,M
+49,Catawba ,Catawba College ,SAC,5,10,0.333,2021,M
+49,Lynn ,Lynn University ,Sunshine State,5,10,0.333,2021,M
+49,Post ,Post University ,CACC,4,8,0.333,2021,M
+52,Assumption ,Assumption University ,NE10,4,9,0.308,2021,M
+52,Wheeling ,Wheeling University ,G-MAC,4,9,0.308,2021,M
+54,Dist. Columbia ,University of the District of Columbia ,ECC,3,7,0.3,2021,M
+55,Quincy ,Quincy University ,GLVC,4,10,0.286,2021,M
+55,Walsh ,Walsh University ,G-MAC,4,10,0.286,2021,M
+57,Mars Hill ,Mars Hill University ,SAC,4,11,0.267,2021,M
+58,CSU Pueblo ,Colorado State University Pueblo ,RMAC,3,9,0.25,2021,M
+59,Embry-Riddle ,Embry,FL,4,13,0.235,2021,M
+59,Lincoln Memorial ,Lincoln Memorial University ,SAC,4,13,0.235,2021,M
+61,Caldwell ,Caldwell University ,CACC,3,10,0.231,2021,M
+62,Lees-McRae ,Lees,Conference Carolinas,3,12,0.2,2021,M
+62,Saint Michael's ,Saint Michael's College ,NE10,3,12,0.2,2021,M
+64,Flagler ,Flagler College ,Peach Belt,3,14,0.176,2021,M
+64,Shorter ,Shorter University ,Peach Belt,3,14,0.176,2021,M
+66,Davis & Elkins ,Davis & Elkins College ,G-MAC,2,12,0.143,2021,M
+66,Emmanuel ,Emmanuel College ,GA,2,12,0.143,2021,M
+66,St. Thomas Aquinas ,St. Thomas Aquinas College ,ECC,2,12,0.143,2021,M
+69,Coker ,Coker University ,SAC,2,14,0.125,2021,M
+70,Adams St. ,Adams State University ,RMAC,1,9,0.1,2021,M
+71,Alderson Broaddus ,Alderson Broaddus University ,G-MAC,1,11,0.083,2021,M
+72,American Int'l ,American International College ,NE10,1,14,0.067,2021,M
+72,Young Harris ,Young Harris College ,Peach Belt,1,14,0.067,2021,M
+74,D'Youville ,D'Youville College ,ECC,0,11,0,2021,M
+1,Le Moyne ,Le Moyne College ,NE10,15,0,1,2020,M
+2,Tampa ,University of Tampa ,Sunshine State,10,1,0.909,2020,M
+3,Mercy ,Mercy College ,ECC,9,1,0.9,2020,M
+4,Lenoir-Rhyne ,Lenoir,SAC,15,2,0.882,2020,M
+5,St. Anselm ,Saint Anselm College ,NE10,13,2,0.867,2020,M
+6,Mercyhurst ,Mercyhurst University ,G-MAC,12,2,0.857,2020,M
+7,Chestnut Hill ,Chestnut Hill College ,CACC,10,2,0.833,2020,M
+8,Colorado Mesa ,Colorado Mesa University ,RMAC,9,2,0.818,2020,M
+9,Wingate ,Wingate University ,SAC,12,3,0.8,2020,M
+10,Mount Olive ,University of Mount Olive ,Conference Carolinas,11,3,0.786,2020,M
+10,Seton Hill ,Seton Hill University ,G-MAC,11,3,0.786,2020,M
+12,Lindenwood ,Lindenwood University ,GLVC,10,3,0.769,2020,M
+12,UIndy ,University of Indianapolis (UIndy) ,GLVC,10,3,0.769,2020,M
+14,Lynn ,Lynn University ,Sunshine State,6,2,0.75,2020,M
+15,Belmont Abbey ,Belmont Abbey College ,Conference Carolinas,10,4,0.714,2020,M
+15,Limestone ,Limestone University ,SAC,10,4,0.714,2020,M
+15,Montevallo ,University of Montevallo ,Peach Belt,10,4,0.714,2020,M
+18,Adelphi ,Adelphi University ,NE10,7,3,0.7,2020,M
+18,Rollins ,Rollins College ,Sunshine State,7,3,0.7,2020,M
+20,Queens ,Queens University of Charlotte ,NC,7,4,0.636,2020,M
+21,Barton ,Barton College ,Conference Carolinas,8,5,0.615,2020,M
+21,Georgian Court ,Georgian Court University ,CACC,8,5,0.615,2020,M
+21,Rockhurst ,Rockhurst University ,GLVC,8,5,0.615,2020,M
+24,Bentley ,Bentley University ,NE10,6,4,0.6,2020,M
+25,Newberry ,Newberry College ,SAC,7,5,0.583,2020,M
+25,Roberts Wesleyan ,Roberts Wesleyan College ,ECC,7,5,0.583,2020,M
+25,Tusculum ,Tusculum University ,SAC,7,5,0.583,2020,M
+25,Westminster ,Westminster College ,UT,7,5,0.583,2020,M
+29,Wilmington ,Wilmington University ,DE,5,4,0.556,2020,M
+30,Lander ,Lander University ,Peach Belt,6,5,0.545,2020,M
+31,Maryville ,Maryville University ,MO,7,6,0.538,2020,M
+32,Dominican ,Dominican College ,NY,4,4,0.5,2020,M
+32,North Greenville ,North Greenville University ,Conference Carolinas,7,7,0.5,2020,M
+32,Southern N.H. ,Southern New Hampshire University ,NE10,6,6,0.5,2020,M
+35,Pace ,Pace University ,NE10,6,7,0.462,2020,M
+36,Catawba ,Catawba College ,SAC,5,6,0.455,2020,M
+37,Alabama Huntsville ,University of Alabama in Huntsville ,Peach Belt,6,8,0.429,2020,M
+37,Coker ,Coker University ,SAC,6,8,0.429,2020,M
+39,Franklin Pierce ,Franklin Pierce University ,NE10,5,7,0.417,2020,M
+39,Lewis ,Lewis University ,GLVC,5,7,0.417,2020,M
+41,Caldwell ,Caldwell University ,CACC,4,6,0.4,2020,M
+42,Lake Erie ,Lake Erie College ,G-MAC,5,8,0.385,2020,M
+42,Walsh ,Walsh University ,G-MAC,5,8,0.385,2020,M
+44,CSU Pueblo ,Colorado State University Pueblo ,RMAC,3,5,0.375,2020,M
+44,Davis & Elkins ,Davis & Elkins College ,G-MAC,3,5,0.375,2020,M
+44,Florida Tech ,Florida Institute of Technology ,Sunshine State,3,5,0.375,2020,M
+47,Emmanuel ,Emmanuel College ,GA,4,8,0.333,2020,M
+48,Saint Leo ,Saint Leo University ,Sunshine State,3,7,0.3,2020,M
+49,Anderson ,Anderson University ,SC,4,10,0.286,2020,M
+50,Saint Michael's ,Saint Michael's College ,NE10,3,8,0.273,2020,M
+51,Felician ,Felician University ,CACC,2,6,0.25,2020,M
+51,Fla. Southern ,Florida Southern College ,Sunshine State,2,6,0.25,2020,M
+51,Molloy ,Molloy College ,ECC,3,9,0.25,2020,M
+54,Mars Hill ,Mars Hill University ,SAC,3,10,0.231,2020,M
+55,Assumption ,Assumption University ,NE10,2,7,0.222,2020,M
+56,Alderson Broaddus ,Alderson Broaddus University ,G-MAC,2,8,0.2,2020,M
+57,Shorter ,Shorter University ,Peach Belt,2,10,0.167,2020,M
+58,Davenport ,Davenport University ,GLVC,1,8,0.111,2020,M
+58,Palm Beach Atl. ,Palm Beach Atlantic University ,Sunshine State,1,8,0.111,2020,M
+58,Saint Rose ,The College of Saint Rose ,NE10,1,8,0.111,2020,M
+61,Wheeling ,Wheeling University ,G-MAC,1,10,0.091,2020,M
+62,Chowan ,Chowan University ,Conference Carolinas,1,11,0.083,2020,M
+62,Lees-McRae ,Lees,Conference Carolinas,1,11,0.083,2020,M
+64,Adams St. ,Adams State University ,RMAC,0,8,0,2020,M
+64,American Int'l ,American International College ,NE10,0,11,0,2020,M
+64,Lincoln Memorial ,Lincoln Memorial University ,SAC,0,9,0,2020,M
+64,Post ,Post University ,CACC,0,8,0,2020,M
+64,Quincy ,Quincy University ,GLVC,0,10,0,2020,M
+64,St. Thomas Aquinas ,St. Thomas Aquinas College ,ECC,0,6,0,2020,M
+1,St. Anselm ,Saint Anselm College ,NE10,3,0,1,2019,M
+1,Belmont Abbey ,Belmont Abbey College ,Conference Carolinas,7,0,1,2019,M
+1,Frostburg St. ,Frostburg State University ,ECC,5,0,1,2019,M
+1,Franklin Pierce ,Franklin Pierce University ,NE10,2,0,1,2019,M
+1,Le Moyne ,Le Moyne College ,NE10,4,0,1,2019,M
+1,Mercyhurst ,Mercyhurst University ,G-MAC,5,0,1,2019,M
+1,Tampa ,University of Tampa ,Sunshine State,8,0,1,2019,M
+1,Colorado Mesa ,Colorado Mesa University ,RMAC,7,0,1,2019,M
+1,Wilmington ,Wilmington University ,DE,5,0,1,2019,M
+1,Lindenwood ,Lindenwood University ,GLVC,5,0,1,2019,M
+1,Seton Hill ,Seton Hill University ,G-MAC,6,0,1,2019,M
+12,Rockhurst ,Rockhurst University ,GLVC,6,1,0.857,2019,M
+12,Lenoir-Rhyne ,Lenoir,SAC,6,1,0.857,2019,M
+14,Chestnut Hill ,Chestnut Hill College ,CACC,5,1,0.833,2019,M
+14,Mercy ,Mercy College ,ECC,5,1,0.833,2019,M
+16,Limestone ,Limestone University ,Conference Carolinas,4,1,0.8,2019,M
+17,Saint Rose ,The College of Saint Rose ,NE10,3,1,0.75,2019,M
+17,Coker ,Coker University ,SAC,6,2,0.75,2019,M
+19,Queens ,Queens University of Charlotte ,NC,5,2,0.714,2019,M
+19,Lewis ,Lewis University ,GLVC,5,2,0.714,2019,M
+21,Lander ,Lander University ,GLVC,4,2,0.667,2019,M
+21,New York Tech ,New York Institute of Technology ,ECC,4,2,0.667,2019,M
+21,Alabama Huntsville ,University of Alabama in Huntsville ,GLVC,4,2,0.667,2019,M
+21,Wingate ,Wingate University ,SAC,4,2,0.667,2019,M
+25,Chowan ,Chowan University ,Conference Carolinas,5,3,0.625,2019,M
+26,Saint Leo ,Saint Leo University ,Sunshine State,3,2,0.6,2019,M
+27,Tusculum ,Tusculum University ,SAC,4,3,0.571,2019,M
+27,Roberts Wesleyan ,Roberts Wesleyan College ,ECC,4,3,0.571,2019,M
+27,Mount Olive ,University of Mount Olive ,Conference Carolinas,4,3,0.571,2019,M
+30,North Greenville ,North Greenville University ,Conference Carolinas,5,4,0.556,2019,M
+31,Caldwell ,Caldwell University ,CACC,1,1,0.5,2019,M
+31,Young Harris ,Young Harris College ,GLVC,3,3,0.5,2019,M
+31,Westminster ,Westminster College ,UT,4,4,0.5,2019,M
+31,Palm Beach Atl. ,Palm Beach Atlantic University ,Sunshine State,3,3,0.5,2019,M
+31,Rollins ,Rollins College ,Sunshine State,2,2,0.5,2019,M
+31,Pace ,Pace University ,NE10,1,1,0.5,2019,M
+31,Newberry ,Newberry College ,SAC,3,3,0.5,2019,M
+31,Catawba ,Catawba College ,SAC,3,3,0.5,2019,M
+31,Assumption ,Assumption University ,NE10,2,2,0.5,2019,M
+40,Georgian Court ,Georgian Court University ,CACC,4,5,0.444,2019,M
+41,Montevallo ,University of Montevallo ,GLVC,3,4,0.429,2019,M
+41,Fla. Southern ,Florida Southern College ,Sunshine State,3,4,0.429,2019,M
+43,UIndy ,University of Indianapolis (UIndy) ,GLVC,2,3,0.4,2019,M
+44,Mars Hill ,Mars Hill University ,SAC,3,5,0.375,2019,M
+45,Emmanuel ,Emmanuel College ,GA,3,6,0.333,2019,M
+45,Adelphi ,Adelphi University ,NE10,1,2,0.333,2019,M
+45,Lynn ,Lynn University ,Sunshine State,2,4,0.333,2019,M
+45,Dist. Columbia ,University of the District of Columbia ,ECC,3,6,0.333,2019,M
+45,St. Thomas Aquinas ,St. Thomas Aquinas College ,ECC,2,4,0.333,2019,M
+45,Dominican ,Dominican College ,NY,2,4,0.333,2019,M
+45,Maryville ,Maryville University ,MO,2,4,0.333,2019,M
+45,American Int'l ,American International College ,NE10,2,4,0.333,2019,M
+45,Saint Michael's ,Saint Michael's College ,NE10,1,2,0.333,2019,M
+45,Lincoln Memorial ,Lincoln Memorial University ,SAC,2,4,0.333,2019,M
+45,Southern N.H. ,Southern New Hampshire University ,NE10,1,2,0.333,2019,M
+56,Embry-Riddle ,Embry,FL,2,5,0.286,2019,M
+57,CSU Pueblo ,Colorado State University Pueblo ,RMAC,1,3,0.25,2019,M
+57,Walsh ,Walsh University ,G-MAC,1,3,0.25,2019,M
+57,Florida Tech ,Florida Institute of Technology ,Sunshine State,2,6,0.25,2019,M
+60,Davenport ,Davenport University ,DII Independent,1,5,0.167,2019,M
+60,Felician ,Felician University ,CACC,1,5,0.167,2019,M
+62,Lees-McRae ,Lees,Conference Carolinas,1,6,0.143,2019,M
+62,Post ,Post University ,CACC,1,6,0.143,2019,M
+62,Barton ,Barton College ,Conference Carolinas,1,6,0.143,2019,M
+62,Molloy ,Molloy College ,ECC,1,6,0.143,2019,M
+66,Shorter ,Shorter University ,DII Independent,1,7,0.125,2019,M
+67,Adams St. ,Adams State University ,RMAC,0,4,0,2019,M
+67,Alderson Broaddus ,Alderson Broaddus University ,G-MAC,0,5,0,2019,M
+67,Bentley ,Bentley University ,NE10,0,3,0,2019,M
+67,Davis & Elkins ,Davis & Elkins College ,G-MAC,0,7,0,2019,M
+67,Lake Erie ,Lake Erie College ,G-MAC,0,6,0,2019,M
+67,Quincy ,Quincy University ,GLVC,0,5,0,2019,M
+1,Limestone ,Limestone University ,Conference Carolinas,20,1,0.952,2018,M
+2,Mercy ,Mercy College ,ECC,18,2,0.9,2018,M
+3,Merrimack ,Merrimack College ,NE10,17,3,0.85,2018,M
+4,Adelphi ,Adelphi University ,NE10,16,3,0.842,2018,M
+4,Le Moyne ,Le Moyne College ,NE10,16,3,0.842,2018,M
+4,UIndy ,University of Indianapolis (UIndy) ,GLVC,16,3,0.842,2018,M
+7,Belmont Abbey ,Belmont Abbey College ,Conference Carolinas,14,4,0.778,2018,M
+8,Pace ,Pace University ,NE10,13,4,0.765,2018,M
+8,Mercyhurst ,Mercyhurst University ,G-MAC,13,4,0.765,2018,M
+8,Wingate ,Wingate University ,SAC,13,4,0.765,2018,M
+11,Mount Olive ,University of Mount Olive ,Conference Carolinas,12,4,0.75,2018,M
+11,Rockhurst ,Rockhurst University ,RMAC,12,4,0.75,2018,M
+13,Lynn ,Lynn University ,Sunshine State,11,4,0.733,2018,M
+14,Queens ,Queens University of Charlotte ,NC,13,5,0.722,2018,M
+15,Tampa ,University of Tampa ,Sunshine State,15,6,0.714,2018,M
+16,Seton Hill ,Seton Hill University ,G-MAC,12,5,0.706,2018,M
+17,LIU Post ,Long Island University,ECC,11,5,0.688,2018,M
+17,Chestnut Hill ,Chestnut Hill College ,CACC,11,5,0.688,2018,M
+19,Rollins ,Rollins College ,Sunshine State,10,5,0.667,2018,M
+19,Lindenwood ,Lindenwood University ,DII Independent,10,5,0.667,2018,M
+21,Westminster ,Westminster College ,UT,11,6,0.647,2018,M
+22,Bentley ,Bentley University ,NE10,9,5,0.643,2018,M
+23,Newberry ,Newberry College ,SAC,10,6,0.625,2018,M
+24,Maryville ,Maryville University ,MO,9,6,0.6,2018,M
+24,Catawba ,Catawba College ,SAC,9,6,0.6,2018,M
+26,Saint Leo ,Saint Leo University ,Sunshine State,10,7,0.588,2018,M
+27,Florida Tech ,Florida Institute of Technology ,Sunshine State,7,5,0.583,2018,M
+28,Fla. Southern ,Florida Southern College ,Sunshine State,9,7,0.563,2018,M
+29,Georgian Court ,Georgian Court University ,CACC,10,8,0.556,2018,M
+29,Colorado Mesa ,Colorado Mesa University ,RMAC,10,8,0.556,2018,M
+31,Assumption ,Assumption University ,NE10,8,7,0.533,2018,M
+31,Wilmington ,Wilmington University ,DE,8,7,0.533,2018,M
+33,Tusculum ,Tusculum University ,SAC,7,7,0.5,2018,M
+33,St. Anselm ,Saint Anselm College ,NE10,7,7,0.5,2018,M
+33,Lenoir-Rhyne ,Lenoir,SAC,8,8,0.5,2018,M
+36,Embry-Riddle ,Embry,FL,8,9,0.471,2018,M
+36,North Greenville ,North Greenville University ,Conference Carolinas,8,9,0.471,2018,M
+38,Roberts Wesleyan ,Roberts Wesleyan College ,ECC,7,8,0.467,2018,M
+38,Molloy ,Molloy College ,ECC,7,8,0.467,2018,M
+38,CSU Pueblo ,Colorado State University Pueblo ,RMAC,7,8,0.467,2018,M
+41,Young Harris ,Young Harris College ,GLVC,6,7,0.462,2018,M
+42,St. Thomas Aquinas ,St. Thomas Aquinas College ,ECC,6,8,0.429,2018,M
+43,Montevallo ,University of Montevallo ,GLVC,6,9,0.4,2018,M
+44,Franklin Pierce ,Franklin Pierce University ,NE10,5,8,0.385,2018,M
+45,Palm Beach Atl. ,Palm Beach Atlantic University ,Sunshine State,6,10,0.375,2018,M
+46,Coker ,Coker University ,SAC,5,9,0.357,2018,M
+46,Saint Rose ,The College of Saint Rose ,NE10,5,9,0.357,2018,M
+48,Alabama Huntsville ,University of Alabama in Huntsville ,GLVC,4,8,0.333,2018,M
+49,Dist. Columbia ,University of the District of Columbia ,ECC,4,9,0.308,2018,M
+50,Barton ,Barton College ,Conference Carolinas,5,12,0.294,2018,M
+51,Lincoln Memorial ,Lincoln Memorial University ,SAC,4,10,0.286,2018,M
+51,Southern N.H. ,Southern New Hampshire University ,NE10,4,10,0.286,2018,M
+51,Walsh ,Walsh University ,G-MAC,4,10,0.286,2018,M
+51,Lake Erie ,Lake Erie College ,G-MAC,4,10,0.286,2018,M
+51,Lees-McRae ,Lees,Conference Carolinas,4,10,0.286,2018,M
+56,New York Tech ,New York Institute of Technology ,ECC,5,13,0.278,2018,M
+57,Saint Michael's ,Saint Michael's College ,NE10,4,11,0.267,2018,M
+58,Emmanuel ,Emmanuel College ,GA,4,12,0.25,2018,M
+59,Adams St. ,Adams State University ,RMAC,3,10,0.231,2018,M
+60,Wheeling ,Wheeling University ,G-MAC,3,11,0.214,2018,M
+61,Dominican ,Dominican College ,NY,3,12,0.2,2018,M
+61,Mars Hill ,Mars Hill University ,SAC,3,12,0.2,2018,M
+63,Davis & Elkins ,Davis & Elkins College ,G-MAC,2,9,0.182,2018,M
+64,Alderson Broaddus ,Alderson Broaddus University ,G-MAC,2,12,0.143,2018,M
+64,Post ,Post University ,CACC,2,12,0.143,2018,M
+66,Chowan ,Chowan University ,Conference Carolinas,2,13,0.133,2018,M
+67,Notre Dame de Namur ,Notre Dame de Namur University ,DII Independent,1,9,0.1,2018,M
+68,Shorter ,Shorter University ,GLVC,0,13,0,2018,M
+68,Felician ,Felician University ,CACC,0,13,0,2018,M
+68,American Int'l ,American International College ,NE10,0,16,0,2018,M
+1,Merrimack ,Merrimack College ,NE10,18,1,0.947,2017,M
+2,Seton Hill ,Seton Hill University ,G-MAC,17,2,0.895,2017,M
+3,Le Moyne ,Le Moyne College ,NE10,15,2,0.882,2017,M
+4,Lenoir-Rhyne ,Lenoir,SAC,17,3,0.85,2017,M
+4,Colorado Mesa ,Colorado Mesa University ,RMAC,17,3,0.85,2017,M
+6,Saint Leo ,Saint Leo University ,Sunshine State,16,3,0.842,2017,M
+7,Rockhurst ,Rockhurst University ,RMAC,14,3,0.824,2017,M
+8,Lake Erie ,Lake Erie College ,G-MAC,11,3,0.786,2017,M
+9,Belmont Abbey ,Belmont Abbey College ,Conference Carolinas,14,4,0.778,2017,M
+9,Lincoln Memorial ,Lincoln Memorial University ,SAC,14,4,0.778,2017,M
+11,Young Harris ,Young Harris College ,GLVC,13,4,0.765,2017,M
+12,Tampa ,University of Tampa ,Sunshine State,15,5,0.75,2017,M
+13,Adelphi ,Adelphi University ,NE10,11,4,0.733,2017,M
+14,New York Tech ,New York Institute of Technology ,ECC,13,5,0.722,2017,M
+15,Wingate ,Wingate University ,SAC,11,5,0.688,2017,M
+15,Mercyhurst ,Mercyhurst University ,G-MAC,11,5,0.688,2017,M
+15,Mount Olive ,University of Mount Olive ,Conference Carolinas,11,5,0.688,2017,M
+15,St. Anselm ,Saint Anselm College ,NE10,11,5,0.688,2017,M
+19,UIndy ,University of Indianapolis (UIndy) ,GLVC,10,5,0.667,2017,M
+19,Mercy ,Mercy College ,ECC,10,5,0.667,2017,M
+19,LIU Post ,Long Island University,ECC,10,5,0.667,2017,M
+22,Georgian Court ,Georgian Court University ,CACC,11,6,0.647,2017,M
+23,Lynn ,Lynn University ,Sunshine State,9,6,0.6,2017,M
+23,Florida Tech ,Florida Institute of Technology ,Sunshine State,9,6,0.6,2017,M
+25,Limestone ,Limestone University ,Conference Carolinas,11,8,0.579,2017,M
+26,Queens ,Queens University of Charlotte ,NC,9,7,0.563,2017,M
+26,Molloy ,Molloy College ,ECC,9,7,0.563,2017,M
+28,Assumption ,Assumption University ,NE10,7,6,0.538,2017,M
+29,Dist. Columbia ,University of the District of Columbia ,ECC,8,7,0.533,2017,M
+29,Fla. Southern ,Florida Southern College ,Sunshine State,8,7,0.533,2017,M
+29,Alabama Huntsville ,University of Alabama in Huntsville ,GLVC,8,7,0.533,2017,M
+32,Saint Rose ,The College of Saint Rose ,NE10,9,8,0.529,2017,M
+33,Chowan ,Chowan University ,Conference Carolinas,8,8,0.5,2017,M
+33,Montevallo ,University of Montevallo ,GLVC,7,7,0.5,2017,M
+33,Pace ,Pace University ,NE10,7,7,0.5,2017,M
+33,Rollins ,Rollins College ,Sunshine State,7,7,0.5,2017,M
+37,North Greenville ,North Greenville University ,Conference Carolinas,8,9,0.471,2017,M
+38,Coker ,Coker University ,SAC,7,8,0.467,2017,M
+39,Lindenwood ,Lindenwood University ,DII Independent,6,7,0.462,2017,M
+40,Chestnut Hill ,Chestnut Hill College ,CACC,7,10,0.412,2017,M
+41,CSU Pueblo ,Colorado State University Pueblo ,RMAC,6,9,0.4,2017,M
+41,Wheeling ,Wheeling University ,DII Independent,6,9,0.4,2017,M
+41,Catawba ,Catawba College ,SAC,6,9,0.4,2017,M
+44,Bentley ,Bentley University ,NE10,5,8,0.385,2017,M
+44,Franklin Pierce ,Franklin Pierce University ,NE10,5,8,0.385,2017,M
+46,Roberts Wesleyan ,Roberts Wesleyan College ,ECC,6,10,0.375,2017,M
+47,Southern N.H. ,Southern New Hampshire University ,NE10,5,9,0.357,2017,M
+48,St. Thomas Aquinas ,St. Thomas Aquinas College ,ECC,5,10,0.333,2017,M
+49,Tusculum ,Tusculum University ,SAC,4,9,0.308,2017,M
+49,Wilmington ,Wilmington University ,DE,4,9,0.308,2017,M
+51,Maryville ,Maryville University ,MO,5,12,0.294,2017,M
+52,Saint Michael's ,Saint Michael's College ,NE10,4,10,0.286,2017,M
+52,Adams St. ,Adams State University ,RMAC,4,10,0.286,2017,M
+54,Alderson Broaddus ,Alderson Broaddus University ,G-MAC,3,8,0.273,2017,M
+55,Newberry ,Newberry College ,SAC,4,11,0.267,2017,M
+56,Palm Beach Atl. ,Palm Beach Atlantic University ,Sunshine State,4,12,0.25,2017,M
+56,Ohio Valley ,Ohio Valley University ,G-MAC,3,9,0.25,2017,M
+58,Lees-McRae ,Lees,Conference Carolinas,2,7,0.222,2017,M
+59,Dominican ,Dominican College ,NY,3,11,0.214,2017,M
+60,Notre Dame de Namur ,Notre Dame de Namur University ,DII Independent,2,8,0.2,2017,M
+61,Walsh ,Walsh University ,G-MAC,2,11,0.154,2017,M
+62,Post ,Post University ,CACC,2,12,0.143,2017,M
+62,Mars Hill ,Mars Hill University ,SAC,2,12,0.143,2017,M
+64,Felician ,Felician University ,CACC,1,11,0.083,2017,M
+65,Embry-Riddle ,Embry,FL,1,12,0.077,2017,M
+66,Shorter ,Shorter University ,GLVC,1,13,0.071,2017,M
+67,American Int'l ,American International College ,NE10,1,15,0.063,2017,M
+68,Davis & Elkins ,Davis & Elkins College ,G-MAC,0,12,0,2017,M
+1,Limestone ,Limestone University ,Conference Carolinas,21,1,0.955,2016,M
+2,Colorado Mesa ,Colorado Mesa University ,RMAC,16,2,0.889,2016,M
+3,New York Tech ,New York Institute of Technology ,ECC,14,3,0.824,2016,M
+3,Le Moyne ,Le Moyne College ,NE10,14,3,0.824,2016,M
+5,Lenoir-Rhyne ,Lenoir,SAC,12,3,0.8,2016,M
+5,Mercyhurst ,Mercyhurst University ,ECAC,12,3,0.8,2016,M
+7,Adelphi ,Adelphi University ,NE10,15,4,0.789,2016,M
+7,Merrimack ,Merrimack College ,NE10,15,4,0.789,2016,M
+9,Wingate ,Wingate University ,SAC,13,4,0.765,2016,M
+10,Tampa ,University of Tampa ,Sunshine State,15,5,0.75,2016,M
+10,Seton Hill ,Seton Hill University ,ECAC-II,12,4,0.75,2016,M
+10,Pace ,Pace University ,NE10,12,4,0.75,2016,M
+13,Tusculum ,Tusculum University ,SAC,11,4,0.733,2016,M
+14,Lindenwood ,Lindenwood University ,Independent,10,4,0.714,2016,M
+15,Rockhurst ,Rockhurst University ,RMAC,12,5,0.706,2016,M
+15,Belmont Abbey ,Belmont Abbey College ,Conference Carolinas,12,5,0.706,2016,M
+15,Mercy ,Mercy College ,ECC,12,5,0.706,2016,M
+18,Mount Olive ,University of Mount Olive ,Conference Carolinas,11,5,0.688,2016,M
+19,Saint Leo ,Saint Leo University ,Sunshine State,9,5,0.643,2016,M
+19,Molloy ,Molloy College ,ECC,9,5,0.643,2016,M
+21,Chestnut Hill ,Chestnut Hill College ,ECC,8,5,0.615,2016,M
+22,Southern N.H. ,Southern New Hampshire University ,NE10,9,6,0.6,2016,M
+23,Queens ,Queens University of Charlotte ,NC,10,7,0.588,2016,M
+24,St. Anselm ,Saint Anselm College ,NE10,8,6,0.571,2016,M
+25,UIndy ,University of Indianapolis (UIndy) ,Independent,7,6,0.538,2016,M
+26,Lincoln Memorial ,Lincoln Memorial University ,SAC,8,7,0.533,2016,M
+26,Florida Tech ,Florida Institute of Technology ,Sunshine State,8,7,0.533,2016,M
+28,North Greenville ,North Greenville University ,Conference Carolinas,9,9,0.5,2016,M
+28,LIU Post ,Long Island University,ECC,8,8,0.5,2016,M
+28,Catawba ,Catawba College ,SAC,8,8,0.5,2016,M
+28,Rollins ,Rollins College ,Sunshine State,7,7,0.5,2016,M
+28,CSU Pueblo ,Colorado State University Pueblo ,RMAC,6,6,0.5,2016,M
+33,Fla. Southern ,Florida Southern College ,Sunshine State,7,8,0.467,2016,M
+33,Lake Erie ,Lake Erie College ,G-MAC,7,8,0.467,2016,M
+33,Young Harris ,Young Harris College ,Independent,7,8,0.467,2016,M
+36,Mars Hill ,Mars Hill University ,SAC,6,7,0.462,2016,M
+36,Lynn ,Lynn University ,Sunshine State,6,7,0.462,2016,M
+36,Bentley ,Bentley University ,NE10,6,7,0.462,2016,M
+36,Assumption ,Assumption University ,NE10,6,7,0.462,2016,M
+36,Alabama Huntsville ,University of Alabama in Huntsville ,Independent,6,7,0.462,2016,M
+41,Pfeiffer ,Pfeiffer University ,Conference Carolinas,7,9,0.438,2016,M
+42,Wheeling ,Wheeling University ,MEC,6,8,0.429,2016,M
+43,Dist. Columbia ,University of the District of Columbia ,ECC,5,7,0.417,2016,M
+44,Dominican ,Dominican College ,NY,6,9,0.4,2016,M
+45,Post ,Post University ,Independent,5,8,0.385,2016,M
+45,Adams St. ,Adams State University ,RMAC,5,8,0.385,2016,M
+47,St. Thomas Aquinas ,St. Thomas Aquinas College ,ECC,5,10,0.333,2016,M
+48,Georgian Court ,Georgian Court University ,Independent,5,11,0.313,2016,M
+48,Lees-McRae ,Lees,Conference Carolinas,5,11,0.313,2016,M
+50,Franklin Pierce ,Franklin Pierce University ,NE10,4,9,0.308,2016,M
+51,Coker ,Coker University ,SAC,4,10,0.286,2016,M
+51,Ohio Valley ,Ohio Valley University ,G-MAC,4,10,0.286,2016,M
+51,Davis & Elkins ,Davis & Elkins College ,G-MAC,4,10,0.286,2016,M
+54,Saint Rose ,The College of Saint Rose ,NE10,4,11,0.267,2016,M
+55,Walsh ,Walsh University ,ECAC-II,4,12,0.25,2016,M
+55,Roberts Wesleyan ,Roberts Wesleyan College ,ECC,4,12,0.25,2016,M
+57,Saint Michael's ,Saint Michael's College ,NE10,2,10,0.167,2016,M
+58,Brevard ,Brevard College ,SAC,2,14,0.125,2016,M
+1,Le Moyne ,Le Moyne College ,NE10,20,0,1,2015,M
+2,Limestone ,Limestone University ,Conference Carolinas,21,1,0.955,2015,M
+3,Tampa ,University of Tampa ,Sunshine State,15,3,0.833,2015,M
+3,Merrimack ,Merrimack College ,NE10,15,3,0.833,2015,M
+3,Mercyhurst ,Mercyhurst University ,ECAC-II,15,3,0.833,2015,M
+6,Colorado Mesa ,Colorado Mesa University ,RMAC,13,4,0.765,2015,M
+7,Lenoir-Rhyne ,Lenoir,SAC,12,4,0.75,2015,M
+7,Belmont Abbey ,Belmont Abbey College ,Conference Carolinas,12,4,0.75,2015,M
+7,LIU Post ,Long Island University,ECC,12,4,0.75,2015,M
+10,Seton Hill ,Seton Hill University ,ECAC-II,11,4,0.733,2015,M
+11,New York Tech ,New York Institute of Technology ,ECC,13,5,0.722,2015,M
+11,Mount Olive ,University of Mount Olive ,Conference Carolinas,13,5,0.722,2015,M
+13,Adelphi ,Adelphi University ,NE10,12,5,0.706,2015,M
+14,Dowling ,Dowling College ,ECC,10,5,0.667,2015,M
+14,Molloy ,Molloy College ,ECC,10,5,0.667,2015,M
+14,Young Harris ,Young Harris College ,Independent,10,5,0.667,2015,M
+17,Pace ,Pace University ,NE10,11,6,0.647,2015,M
+18,Lynn ,Lynn University ,Sunshine State,9,5,0.643,2015,M
+18,Saint Leo ,Saint Leo University ,Sunshine State,9,5,0.643,2015,M
+20,Rollins ,Rollins College ,Sunshine State,10,6,0.625,2015,M
+20,Lindenwood ,Lindenwood University ,ECAC-II,10,6,0.625,2015,M
+20,Wingate ,Wingate University ,SAC,10,6,0.625,2015,M
+20,Southern N.H. ,Southern New Hampshire University ,NE10,10,6,0.625,2015,M
+24,Queens ,Queens University of Charlotte ,NC,11,7,0.611,2015,M
+25,Mercy ,Mercy College ,ECC,9,6,0.6,2015,M
+25,Lake Erie ,Lake Erie College ,ECAC-II,9,6,0.6,2015,M
+27,Wheeling ,Wheeling University ,ECAC-II,7,5,0.583,2015,M
+28,St. Anselm ,Saint Anselm College ,NE10,8,6,0.571,2015,M
+28,UIndy ,University of Indianapolis (UIndy) ,ECAC-II,8,6,0.571,2015,M
+30,Pfeiffer ,Pfeiffer University ,Conference Carolinas,8,7,0.533,2015,M
+31,Rockhurst ,Rockhurst University ,RMAC,9,8,0.529,2015,M
+32,Fla. Southern ,Florida Southern College ,Sunshine State,9,9,0.5,2015,M
+32,Shorter ,Shorter University ,Independent,7,7,0.5,2015,M
+32,Lincoln Memorial ,Lincoln Memorial University ,SAC,6,6,0.5,2015,M
+35,Florida Tech ,Florida Institute of Technology ,Sunshine State,6,7,0.462,2015,M
+35,Chestnut Hill ,Chestnut Hill College ,ECC,6,7,0.462,2015,M
+35,Bentley ,Bentley University ,NE10,6,7,0.462,2015,M
+38,Post ,Post University ,Independent,6,8,0.429,2015,M
+39,Franklin Pierce ,Franklin Pierce University ,NE10,5,8,0.385,2015,M
+40,Saint Michael's ,Saint Michael's College ,NE10,5,9,0.357,2015,M
+41,Tusculum ,Tusculum University ,SAC,5,10,0.333,2015,M
+41,North Greenville ,North Greenville University ,Conference Carolinas,5,10,0.333,2015,M
+41,Catawba ,Catawba College ,SAC,5,10,0.333,2015,M
+41,Walsh ,Walsh University ,ECAC-II,5,10,0.333,2015,M
+41,Alderson Broaddus ,Alderson Broaddus University ,ECAC-II,5,10,0.333,2015,M
+41,Dist. Columbia ,University of the District of Columbia ,ECC,4,8,0.333,2015,M
+47,Coker ,Coker University ,SAC,5,11,0.313,2015,M
+48,Adams St. ,Adams State University ,RMAC,4,10,0.286,2015,M
+49,Mars Hill ,Mars Hill University ,SAC,4,11,0.267,2015,M
+50,Alabama Huntsville ,University of Alabama in Huntsville ,,3,9,0.25,2015,M
+50,Ohio Valley ,Ohio Valley University ,ECAC-II,3,9,0.25,2015,M
+52,CSU Pueblo ,Colorado State University Pueblo ,RMAC,3,11,0.214,2015,M
+52,Assumption ,Assumption University ,NE10,3,11,0.214,2015,M
+54,Dominican ,Dominican College ,NY,3,12,0.2,2015,M
+55,Roberts Wesleyan ,Roberts Wesleyan College ,ECC,3,13,0.188,2015,M
+55,Saint Rose ,The College of Saint Rose ,NE10,3,13,0.188,2015,M
+57,Lees-McRae ,Lees,Conference Carolinas,2,12,0.143,2015,M
+58,Brevard ,Brevard College ,SAC,2,13,0.133,2015,M
+58,Georgian Court ,Georgian Court University ,Independent,2,13,0.133,2015,M
+1,Limestone ,Limestone University ,Conference Carolinas,20,1,0.952,2014,M
+2,Le Moyne ,Le Moyne College ,NE10,16,3,0.842,2014,M
+3,Lake Erie ,Lake Erie College ,ECAC-II,15,3,0.833,2014,M
+3,Adelphi ,Adelphi University ,NE10,15,3,0.833,2014,M
+5,LIU Post ,Long Island University,ECC,14,3,0.824,2014,M
+6,Merrimack ,Merrimack College ,NE10,13,3,0.813,2014,M
+7,Tampa ,University of Tampa ,Sunshine State,15,4,0.789,2014,M
+8,Lindenwood ,Lindenwood University ,ECAC-II,14,4,0.778,2014,M
+9,New York Tech ,New York Institute of Technology ,ECC,12,4,0.75,2014,M
+9,Florida Tech ,Florida Institute of Technology ,Sunshine State,12,4,0.75,2014,M
+9,Franklin Pierce ,Franklin Pierce University ,NE10,12,4,0.75,2014,M
+9,Colorado Mesa ,Colorado Mesa University ,RMAC,9,3,0.75,2014,M
+13,Molloy ,Molloy College ,ECC,11,4,0.733,2014,M
+14,Mount Olive ,University of Mount Olive ,Conference Carolinas,11,5,0.688,2014,M
+14,Belmont Abbey ,Belmont Abbey College ,Conference Carolinas,11,5,0.688,2014,M
+16,Pfeiffer ,Pfeiffer University ,Conference Carolinas,10,5,0.667,2014,M
+17,Seton Hill ,Seton Hill University ,ECAC-II,9,5,0.643,2014,M
+17,Coker ,Coker University ,SAC,9,5,0.643,2014,M
+19,Mars Hill ,Mars Hill University ,SAC,10,6,0.625,2014,M
+20,Mercy ,Mercy College ,ECC,10,7,0.588,2014,M
+21,Rockhurst ,Rockhurst University ,Independent,7,5,0.583,2014,M
+22,Mercyhurst ,Mercyhurst University ,ECAC-II,8,6,0.571,2014,M
+22,Wheeling ,Wheeling University ,ECAC-II,8,6,0.571,2014,M
+24,Pace ,Pace University ,NE10,9,7,0.563,2014,M
+24,Young Harris ,Young Harris College ,,9,7,0.563,2014,M
+24,Lenoir-Rhyne ,Lenoir,SAC,9,7,0.563,2014,M
+27,Assumption ,Assumption University ,NE10,9,8,0.529,2014,M
+27,Queens ,Queens University of Charlotte ,NC,9,8,0.529,2014,M
+29,Brevard ,Brevard College ,SAC,8,8,0.5,2014,M
+29,Saint Leo ,Saint Leo University ,Sunshine State,7,7,0.5,2014,M
+29,Saint Michael's ,Saint Michael's College ,NE10,7,7,0.5,2014,M
+29,Shorter ,Shorter University ,Independent,7,7,0.5,2014,M
+29,Lynn ,Lynn University ,Sunshine State,7,7,0.5,2014,M
+34,Chestnut Hill ,Chestnut Hill College ,ECC,6,7,0.462,2014,M
+34,Bentley ,Bentley University ,NE10,6,7,0.462,2014,M
+36,Fla. Southern ,Florida Southern College ,Sunshine State,6,8,0.429,2014,M
+36,Post ,Post University ,Independent,6,8,0.429,2014,M
+38,Dowling ,Dowling College ,ECC,5,8,0.385,2014,M
+38,Tusculum ,Tusculum University ,SAC,5,8,0.385,2014,M
+40,Wingate ,Wingate University ,SAC,6,10,0.375,2014,M
+40,Rollins ,Rollins College ,Sunshine State,6,10,0.375,2014,M
+42,Catawba ,Catawba College ,SAC,5,10,0.333,2014,M
+43,Alderson Broaddus ,Alderson Broaddus University ,ECAC-II,4,9,0.308,2014,M
+44,Saint Rose ,The College of Saint Rose ,NE10,4,10,0.286,2014,M
+44,Lincoln Memorial ,Lincoln Memorial University ,SAC,4,10,0.286,2014,M
+46,Adams St. ,Adams State University ,Independent,4,11,0.267,2014,M
+46,Roberts Wesleyan ,Roberts Wesleyan College ,ECC,4,11,0.267,2014,M
+48,Walsh ,Walsh University ,ECAC-II,3,10,0.231,2014,M
+48,Emmanuel ,Emmanuel College ,GA,3,10,0.231,2014,M
+50,Dist. Columbia ,University of the District of Columbia ,ECC,2,9,0.182,2014,M
+51,St. Anselm ,Saint Anselm College ,NE10,2,11,0.154,2014,M
+52,Southern N.H. ,Southern New Hampshire University ,NE10,2,13,0.133,2014,M
+52,American Int'l ,American International College ,NE10,2,13,0.133,2014,M
+54,Lees-McRae ,Lees,Conference Carolinas,2,14,0.125,2014,M
+55,Notre Dame de Namur ,Notre Dame de Namur University ,Independent,1,8,0.111,2014,M
+56,Dominican ,Dominican College ,NY,1,12,0.077,2014,M
+57,North Greenville ,North Greenville University ,Conference Carolinas,1,14,0.067,2014,M
+58,Ohio Valley ,Ohio Valley University ,Independent,0,15,0,2014,M
+58,CSU Pueblo ,Colorado State University Pueblo ,RMAC,0,10,0,2014,M
+1,Limestone ,Limestone University ,Conference Carolinas,19,1,0.95,2013,M
+2,Adelphi ,Adelphi University ,NE10,17,2,0.895,2013,M
+3,Tampa ,University of Tampa ,Sunshine State,16,3,0.842,2013,M
+4,Mount Olive ,University of Mount Olive ,Conference Carolinas,13,3,0.813,2013,M
+4,Le Moyne ,Le Moyne College ,NE10,13,3,0.813,2013,M
+6,Wheeling ,Wheeling University ,ECAC-II,10,3,0.769,2013,M
+7,New York Tech ,New York Institute of Technology ,ECC,12,4,0.75,2013,M
+7,Mercyhurst ,Mercyhurst University ,ECAC-II,12,4,0.75,2013,M
+7,Colorado Mesa ,Colorado Mesa University ,Independent,9,3,0.75,2013,M
+7,Dominican ,Dominican College ,CA,9,3,0.75,2013,M
+11,Fla. Southern ,Florida Southern College ,Sunshine State,11,4,0.733,2013,M
+12,Lenoir-Rhyne ,Lenoir,SAC,10,4,0.714,2013,M
+12,Lake Erie ,Lake Erie College ,ECAC-II,10,4,0.714,2013,M
+14,Merrimack ,Merrimack College ,NE10,12,5,0.706,2013,M
+14,Dowling ,Dowling College ,ECC,12,5,0.706,2013,M
+14,Queens ,Queens University of Charlotte ,NC,12,5,0.706,2013,M
+17,LIU Post ,Long Island University,ECC,11,6,0.647,2013,M
+18,Pfeiffer ,Pfeiffer University ,Conference Carolinas,9,5,0.643,2013,M
+19,Seton Hill ,Seton Hill University ,ECAC-II,10,6,0.625,2013,M
+19,Mercy ,Mercy College ,ECC,10,6,0.625,2013,M
+1,Mercyhurst ,Mercyhurst University ,ECAC-II,18,1,0.947,2012,M
+2,Le Moyne ,Le Moyne College ,NE10,18,2,0.9,2012,M
+3,Limestone ,Limestone University ,Conference Carolinas,16,2,0.889,2012,M
+4,Adelphi ,Adelphi University ,NE10,14,3,0.824,2012,M
+5,New York Tech ,New York Institute of Technology ,ECC,12,3,0.8,2012,M
+6,Merrimack ,Merrimack College ,NE10,11,3,0.786,2012,M
+6,LIU Post ,Long Island University,ECC,11,3,0.786,2012,M
+6,Mars Hill ,Mars Hill University ,Deep South,11,3,0.786,2012,M
+9,Pfeiffer ,Pfeiffer University ,Conference Carolinas,13,4,0.765,2012,M
+10,Seton Hill ,Seton Hill University ,ECAC-II,12,4,0.75,2012,M
+11,Mercy ,Mercy College ,ECC,11,4,0.733,2012,M
+12,Molloy ,Molloy College ,ECC,10,4,0.714,2012,M
+13,Lake Erie ,Lake Erie College ,ECAC-II,12,5,0.706,2012,M
+14,Saint Michael's ,Saint Michael's College ,NE10,11,5,0.688,2012,M
+15,Wheeling ,Wheeling University ,ECAC-II,11,6,0.647,2012,M
+15,Belmont Abbey ,Belmont Abbey College ,Conference Carolinas,11,6,0.647,2012,M
+15,Tampa ,University of Tampa ,Deep South,11,6,0.647,2012,M
+18,Dominican ,Dominican College ,CA,8,5,0.615,2012,M
+19,Saint Leo ,Saint Leo University ,Deep South,8,6,0.571,2012,M
+20,Colorado Mesa ,Colorado Mesa University ,Independent,7,6,0.538,2012,M
+20,Dowling ,Dowling College ,ECC,7,6,0.538,2012,M
+20,Chestnut Hill ,Chestnut Hill College ,ECC,7,6,0.538,2012,M
+23,Catawba ,Catawba College ,Deep South,9,8,0.529,2012,M
+24,Queens ,Queens University of Charlotte ,NC,7,7,0.5,2012,M
+24,Mount Olive ,University of Mount Olive ,Conference Carolinas,7,7,0.5,2012,M
+24,Lenoir-Rhyne ,Lenoir,Deep South,8,8,0.5,2012,M
+27,Fla. Southern ,Florida Southern College ,Deep South,7,8,0.467,2012,M
+28,Florida Tech ,Florida Institute of Technology ,Deep South,6,8,0.429,2012,M
+29,Franklin Pierce ,Franklin Pierce University ,NE10,5,8,0.385,2012,M
+30,Southern N.H. ,Southern New Hampshire University ,NE10,6,10,0.375,2012,M
+31,Pace ,Pace University ,NE10,5,9,0.357,2012,M
+32,Ohio Valley ,Ohio Valley University ,ECAC-II,6,11,0.353,2012,M
+33,Notre Dame de Namur ,Notre Dame de Namur University ,Independent,4,8,0.333,2012,M
+33,Bentley ,Bentley University ,NE10,4,8,0.333,2012,M
+33,Coker ,Coker University ,Conference Carolinas,5,10,0.333,2012,M
+33,St. Anselm ,Saint Anselm College ,NE10,5,10,0.333,2012,M
+37,Saint Rose ,The College of Saint Rose ,NE10,4,11,0.267,2012,M
+38,Adams St. ,Adams State University ,Division II Independents,3,9,0.25,2012,M
+39,Assumption ,Assumption University ,NE10,3,10,0.231,2012,M
+40,Rollins ,Rollins College ,Deep South,3,14,0.176,2012,M
+41,Wingate ,Wingate University ,Deep South,2,14,0.125,2012,M
+42,American Int'l ,American International College ,NE10,1,14,0.067,2012,M
+43,Lees-McRae ,Lees,Conference Carolinas,0,15,0,2012,M
+43,Alderson Broaddus ,Alderson Broaddus University ,ECAC-II,0,13,0,2012,M
+43,Dominican ,Dominican College ,NY,0,12,0,2012,M
+1,Le Moyne ,Le Moyne College ,NE10,17,1,0.944,2011,M
+2,Mercyhurst ,Mercyhurst University ,ECC,13,1,0.929,2011,M
+3,Limestone ,Limestone University ,Conference Carolinas,17,2,0.895,2011,M
+4,Dowling ,Dowling College ,ECC,13,2,0.867,2011,M
+5,Catawba ,Catawba College ,Deep South,14,3,0.824,2011,M
+6,Adelphi ,Adelphi University ,NE10,13,3,0.813,2011,M
+6,New York Tech ,New York Institute of Technology ,ECC,13,3,0.813,2011,M
+6,Merrimack ,Merrimack College ,NE10,13,3,0.813,2011,M
+9,Mars Hill ,Mars Hill University ,Deep South,11,3,0.786,2011,M
+10,Seton Hill ,Seton Hill University ,ECC,12,4,0.75,2011,M
+11,Colorado Mesa ,Colorado Mesa University ,Division II Independents,9,4,0.692,2011,M
+12,Tampa ,University of Tampa ,Deep South,11,5,0.688,2011,M
+12,Saint Michael's ,Saint Michael's College ,NE10,11,5,0.688,2011,M
+14,Pfeiffer ,Pfeiffer University ,Conference Carolinas,12,6,0.667,2011,M
+15,Fla. Southern ,Florida Southern College ,Deep South,10,6,0.625,2011,M
+16,Chestnut Hill ,Chestnut Hill College ,ECC,8,6,0.571,2011,M
+16,Queens ,Queens University of Charlotte ,NC,8,6,0.571,2011,M
+18,Franklin Pierce ,Franklin Pierce University ,NE10,7,6,0.538,2011,M
+18,Dominican ,Dominican College ,CA,7,6,0.538,2011,M
+18,Saint Rose ,The College of Saint Rose ,Division II Independents,7,6,0.538,2011,M
+21,St. Anselm ,Saint Anselm College ,NE10,8,7,0.533,2011,M
+22,Lake Erie ,Lake Erie College ,ECC,7,7,0.5,2011,M
+22,Wheeling ,Wheeling University ,ECC,8,8,0.5,2011,M
+22,LIU Post ,Long Island University,ECC,6,6,0.5,2011,M
+22,Saint Leo ,Saint Leo University ,Deep South,7,7,0.5,2011,M
+26,Mercy ,Mercy College ,ECC,6,7,0.462,2011,M
+27,Molloy ,Molloy College ,ECC,7,9,0.438,2011,M
+28,Adams St. ,Adams State University ,Division II Independents,5,8,0.385,2011,M
+29,Bentley ,Bentley University ,NE10,5,9,0.357,2011,M
+30,Pace ,Pace University ,NE10,5,10,0.333,2011,M
+30,Lenoir-Rhyne ,Lenoir,Deep South,5,10,0.333,2011,M
+32,Belmont Abbey ,Belmont Abbey College ,Conference Carolinas,5,11,0.313,2011,M
+33,Ohio Valley ,Ohio Valley University ,Division II Independents,3,7,0.3,2011,M
+34,Wingate ,Wingate University ,Deep South,4,10,0.286,2011,M
+35,Assumption ,Assumption University ,NE10,3,11,0.214,2011,M
+35,Southern N.H. ,Southern New Hampshire University ,NE10,3,11,0.214,2011,M
+37,Rollins ,Rollins College ,Deep South,3,12,0.2,2011,M
+38,Florida Tech ,Florida Institute of Technology ,Deep South,2,12,0.143,2011,M
+39,Coker ,Coker University ,Conference Carolinas,2,14,0.125,2011,M
+40,Lees-McRae ,Lees,Conference Carolinas,1,10,0.091,2011,M
+41,Notre Dame de Namur ,Notre Dame de Namur University ,Division II Independents,1,12,0.077,2011,M
+42,Dominican ,Dominican College ,NY,1,13,0.071,2011,M
+43,American Int'l ,American International College ,NE10,0,14,0,2011,M
